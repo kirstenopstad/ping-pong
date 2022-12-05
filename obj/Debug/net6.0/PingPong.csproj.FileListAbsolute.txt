@@ -1,0 +1,15 @@
+/Users/kro/Desktop/Epicodus/c#/ping-pong/obj/Debug/net6.0/PingPong.csproj.AssemblyReference.cache
+/Users/kro/Desktop/Epicodus/c#/ping-pong/obj/Debug/net6.0/PingPong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kro/Desktop/Epicodus/c#/ping-pong/obj/Debug/net6.0/PingPong.AssemblyInfoInputs.cache
+/Users/kro/Desktop/Epicodus/c#/ping-pong/obj/Debug/net6.0/PingPong.AssemblyInfo.cs
+/Users/kro/Desktop/Epicodus/c#/ping-pong/obj/Debug/net6.0/PingPong.csproj.CoreCompileInputs.cache
+/Users/kro/Desktop/Epicodus/c#/ping-pong/bin/Debug/net6.0/PingPong
+/Users/kro/Desktop/Epicodus/c#/ping-pong/bin/Debug/net6.0/PingPong.deps.json
+/Users/kro/Desktop/Epicodus/c#/ping-pong/bin/Debug/net6.0/PingPong.runtimeconfig.json
+/Users/kro/Desktop/Epicodus/c#/ping-pong/bin/Debug/net6.0/PingPong.dll
+/Users/kro/Desktop/Epicodus/c#/ping-pong/bin/Debug/net6.0/PingPong.pdb
+/Users/kro/Desktop/Epicodus/c#/ping-pong/obj/Debug/net6.0/PingPong.dll
+/Users/kro/Desktop/Epicodus/c#/ping-pong/obj/Debug/net6.0/refint/PingPong.dll
+/Users/kro/Desktop/Epicodus/c#/ping-pong/obj/Debug/net6.0/PingPong.pdb
+/Users/kro/Desktop/Epicodus/c#/ping-pong/obj/Debug/net6.0/PingPong.genruntimeconfig.cache
+/Users/kro/Desktop/Epicodus/c#/ping-pong/obj/Debug/net6.0/ref/PingPong.dll
